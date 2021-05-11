@@ -42,9 +42,7 @@
   </a>
 </div>
 
-<p align="left">
-  💌 Podemos trocar ideias em qualquer um desses canais: ⤵️
-</p>
+## **💌 Podemos trocar ideias em qualquer um desses canais:** ⤵️
 
 <p align="left">
 
