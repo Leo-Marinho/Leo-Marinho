@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  Para ser o mais clichê possível, <strong>deixo uma citação, que me motiva.</strong>
+  Para ser o mais cafona possível, <strong>deixo uma citação, que me motiva.</strong>
 </p>
 
 <p align="left">
