@@ -13,6 +13,10 @@
 </p>
 
 <p align="left">
+  Atualmente tenho conduzido meu foco de estudo para arquiteturas de microserviços, com Java e Spring no backend, e React no frontend.
+</p>
+
+<p align="left">
   Para ser o mais clichê possível, <strong>deixo uma citação, que me motiva.</strong>
 </p>
 
