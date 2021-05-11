@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leo-marinho-7871b51a3/"/></a>
 
   <a href="https://api.whatsapp.com/send?phone=62982740575&text=Leia%20esta%20mensagem%20antes%20de%20me%20enviar%20algo,%20pronto,%20agora%20j%C3%A1%20pode%20enviar." alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=62982740575&text=Leia%20esta%20mensagem%20antes%20de%20me%20enviar%20algo,%20pronto,%20agora%20j%C3%A1%20pode%20enviar."/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=62982740575&text=Leia%20esta%20mensagem%20antes%20de%20me%20enviar%20algo,%20pronto,%20agora%20j%C3%A1%20pode%20enviar."/></a> 
 
   <a href="https://www.facebook.com/leonaardo.fmarinho/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/leonaardo.fmarinho/"/></a>
