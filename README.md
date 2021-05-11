@@ -12,7 +12,11 @@
 </p>
 
 <p align="left">
-  Para ser o mais clichê possível, deixo uma citação, que me inspira.
+  Para ser o mais clichê possível, <strong>deixo uma citação, que me motiva.</strong>
+</p>
+
+<p align="left">
+  "Nada neste mundo supera a boa e velha persistência. Talento não supera. Nada mais comum que talentosos fracassados. Genialidade não supera. Gênios não reconhecidos é praticamente um clichê. Educação não supera. Porque o mundo é cheio de tolos educados. Persistência e determinação, apenas, são poderosas."  🧑‍💻🌪
 </p>
 
 <p align="left">
