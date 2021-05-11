@@ -32,14 +32,19 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ## **GitHub Estatísticas**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Marinho&theme=dracula&hide_langs_below=1" />
+<div style="display:flex; ">
+  <a href="https://github.com/Gurupreet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Marinho&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leo-Marinho&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+  <a href="https://github.com/Gurupreet">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leo-Marinho&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+  </a>
+</div>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
 <p align="left">
 
