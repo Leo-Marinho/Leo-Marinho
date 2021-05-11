@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-💜 Olá, meu nome é <strong>{ Léo Marinho }!</strong>
+💜 Olá, meu nome é <strong>{ Léo Marinho } !</strong>
 <p align="left"> 
   <strong>Full-stack Dev. </strong>
 </p>
@@ -43,7 +43,7 @@
 </div>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Podemos trocar ideias em qualquer um desses canais: ⤵️
 </p>
 
 <p align="left">
