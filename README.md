@@ -2,15 +2,25 @@
 
 <p align="left"> 
   <strong>Full-stack Dev. </strong>
+</p>
+<p align="left"> 
   🍺 Apreciador de uma boa IPA, 
+</p>
+<p align="left"> 
   🤠 Sertanejo nato de Goiânia, 
+</p>
+<p align="left"> 
   🎓 Perdido na UNIP, cursando Ciências da Computação,
-  💜 Flamenguista rubro-negro , 
+</p>
+<p align="left"> 
+  💜 Flamenguista rubro-negro ,
+</p>
+<p align="left"> 
   🚀 Apaixonado em desenvolvimento de software.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  Para ser o mais clichê possível, deixo uma citação, que me inspira.
 </p>
 
 <p align="left">
