@@ -33,7 +33,7 @@
 
 ## **GitHub Estatísticas**
 <div>
-  <a href="https://github.com/Gurupreet" style="margin-right: 5em;">
+  <a href="https://github.com/Gurupreet" margin-right="5em;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Marinho&theme=dracula&hide_langs_below=1" />
 </a>
 
