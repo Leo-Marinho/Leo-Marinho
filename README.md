@@ -5,17 +5,9 @@
 </p>
 <p align="left"> 
   🍺 Apreciador de uma boa IPA, 
-</p>
-<p align="left"> 
   🤠 Sertanejo nato de Goiânia, 
-</p>
-<p align="left"> 
   🎓 Perdido na UNIP, cursando Ciências da Computação,
-</p>
-<p align="left"> 
   💜 Flamenguista rubro-negro ,
-</p>
-<p align="left"> 
   🚀 Apaixonado em desenvolvimento de software.
 </p>
 
