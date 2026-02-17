@@ -4,14 +4,6 @@
 <p align="left"> 
   <strong>Full-stack Dev. </strong>
 </p>
-<p align="left"> 
-  🍺 Apreciador de uma boa IPA, 
-  🤠 Sertanejo nato de Goiânia, </br>
-  🎓 Perdido na UNIP, cursando Ciências da Computação,</br>
-  🔴 Flamenguista rubro-negro ,
-  🚀 Apaixonado em desenvolvimento de software.
-</p>
-
 <p align="left">
   Atualmente tenho conduzido meu foco de estudo para arquiteturas de microserviços, com Java e Spring no backend, e React no frontend.
 </p>
